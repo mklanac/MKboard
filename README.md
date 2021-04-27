@@ -1,2 +1,2 @@
 # MKboard
- MKboar hardware: VESC-based PM synchronous motor controller
+ MKboard hardware: VESC-based PM synchronous motor controller
