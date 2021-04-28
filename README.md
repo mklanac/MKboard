@@ -1,5 +1,6 @@
 # MKboard
 MKboard hardware: VESC-based PM synchronous motor controller
+
 IPT007N06N MOSFETs are so powerful that the board should be able to run without any heatsink at all at 50A continuous.
 Nothing is tested yet because I am still waiting for some parts to arrive.
 
